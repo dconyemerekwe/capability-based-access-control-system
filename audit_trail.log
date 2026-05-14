@@ -1,0 +1,12 @@
+Apr 02, 2026 10:10:07 AM policy.PolicyEngine requestRead
+INFO: ALLOW: student1 granted read access to PublicAnnouncements
+Apr 02, 2026 10:10:07 AM execution.ExecutionService executeRead
+INFO: [EXECUTION] Reading from resource: PublicAnnouncements
+Apr 02, 2026 10:10:07 AM policy.PolicyEngine requestRead
+INFO: ALLOW: guest granted read access to PublicAnnouncements
+Apr 02, 2026 10:10:07 AM execution.ExecutionService executeRead
+INFO: [EXECUTION] Reading from resource: PublicAnnouncements
+Apr 02, 2026 10:10:07 AM policy.PolicyEngine requestRead
+INFO: ALLOW: teacher granted read access to PublicAnnouncements
+Apr 02, 2026 10:10:07 AM execution.ExecutionService executeRead
+INFO: [EXECUTION] Reading from resource: PublicAnnouncements

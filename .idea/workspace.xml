@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99790416-d062-4513-a477-6276de02b248" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3B1tGxlNOas0nTo3vwUX0NvTBEi" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.CapabilityFactoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ExecutionServiceTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.PolicyEngineTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.StudentRecordsTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.StudentRecordsTest.isOwnerShouldReturnFalseWhenNotMatchedWithRecordOwnerId.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentRecordsTest.isOwnerShouldReturnTrueForAdminRegardlessOfId.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentRecordsTest.isOwnerShouldReturnTrueForTeacherRegardlessOfId.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentRecordsTest.isOwnerShouldReturnTrueWhenMatchedWithRecordOwnerId.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentRecordsTest.requiresOwnershipShouldBeFalseForWriteAction.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentRecordsTest.requiresOwnershipShouldBeTrueForReadAction.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentRecordsTest.requiresOwnershipShouldReturnTrueForWriteAction.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dest2/OneDrive/Desktop/SecurityApp_COMP1549_Group164&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dest2/OneDrive/Desktop/SecurityApp_COMP1549_Group164/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="policy" />
+      <recent name="resource" />
+      <recent name="execution" />
+      <recent name="capability" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SecurityApp_COMP1549_Group164" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CapabilityFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SecurityApp_COMP1549_Group164" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="capability.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="capability" />
+      <option name="MAIN_CLASS_NAME" value="capability.CapabilityFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecutionServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SecurityApp_COMP1549_Group164" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="execution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="execution" />
+      <option name="MAIN_CLASS_NAME" value="execution.ExecutionServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolicyEngineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SecurityApp_COMP1549_Group164" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="policy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="policy" />
+      <option name="MAIN_CLASS_NAME" value="policy.PolicyEngineTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRecordsTest.isOwnerShouldReturnTrueForAdminRegardlessOfId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SecurityApp_COMP1549_Group164" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="resource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="resource" />
+      <option name="MAIN_CLASS_NAME" value="resource.StudentRecordsTest" />
+      <option name="METHOD_NAME" value="isOwnerShouldReturnTrueForAdminRegardlessOfId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CapabilityFactoryTest" />
+        <item itemvalue="JUnit.ExecutionServiceTest" />
+        <item itemvalue="JUnit.PolicyEngineTest" />
+        <item itemvalue="JUnit.StudentRecordsTest.isOwnerShouldReturnTrueForAdminRegardlessOfId" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99790416-d062-4513-a477-6276de02b248" name="Changes" comment="" />
+      <created>1773668314197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773668314197</updated>
+      <workItem from="1773668315349" duration="4383000" />
+      <workItem from="1773675377821" duration="70000" />
+      <workItem from="1773686387960" duration="11750000" />
+      <workItem from="1774616918328" duration="945000" />
+      <workItem from="1774787867951" duration="1009000" />
+      <workItem from="1775120062385" duration="31000" />
+      <workItem from="1775120113570" duration="2815000" />
+      <workItem from="1778676150397" duration="1124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SecurityApp_COMP1549_Group164$CapabilityFactoryTest.ic" NAME="CapabilityFactoryTest Coverage Results" MODIFIED="1773673336903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>capability.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SecurityApp_COMP1549_Group164$ExecutionServiceTest.ic" NAME="ExecutionServiceTest Coverage Results" MODIFIED="1773673310181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>execution.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SecurityApp_COMP1549_Group164$StudentRecordsTest.ic" NAME="StudentRecordsTest Coverage Results" MODIFIED="1773672764573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>resource.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SecurityApp_COMP1549_Group164$PolicyEngineTest.ic" NAME="PolicyEngineTest Coverage Results" MODIFIED="1773673274911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>policy.*</FILTER>
+    </SUITE>
+  </component>
+</project>
