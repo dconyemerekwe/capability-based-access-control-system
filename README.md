@@ -22,7 +22,7 @@ The system is modeled after the Object-Capability security pattern, which replac
 
 * Ownership-Based Access: Incorporates context-aware security by requiring resource ownership for high-sensitivity modifications (e.g., student record updates).
 
-* Auditing & Forensics: Integrated logging via AuditLogger provides a full forensic trail of every `ALLOW` and `DENY` decision.
+* Auditing & Forensics: Integrated logging via `AuditLogger` provides a full forensic trail of every `ALLOW` and `DENY` decision.
 
 ##  Access Decision Matrix
 | Role | Public Resources | Internal Resources | Confidential Resources | Ownership Required? |
